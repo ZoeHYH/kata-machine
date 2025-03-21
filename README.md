@@ -1,5 +1,6 @@
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
+https://frontendmasters.com/courses/algorithms/search-practice/
 
 ## Naming
 ### Lig-Machine
